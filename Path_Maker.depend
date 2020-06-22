@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1592295605 source:d:\okul\class 2\programming language\project 2\path_maker\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<unistd.h>
+	<sys/stat.h>
+	<direct.h>
+	<unistd.h>
+

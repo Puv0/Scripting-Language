@@ -1,0 +1,4 @@
+make<user/deneme/zx>;
+ifnot<user/deneme/zx> {
+make<an>;
+}
